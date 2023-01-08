@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/manoelhenriquees/DevOpsLearning/_apis/build/status/manoelhcs.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/manoelhenriquees/DevOpsLearning/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
